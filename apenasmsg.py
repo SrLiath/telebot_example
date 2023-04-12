@@ -4,8 +4,8 @@ import re
 import telethon
 import os
 import pickle
-api_id = '24583348'
-api_hash = '2e1f41b8438bedde28a66d38758042bb'
+api_id = '*******'
+api_hash = '***********************'
 # inicializa o cliente
 client = telethon.TelegramClient("session_name", api_id, api_hash)
 
